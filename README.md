@@ -1,16 +1,24 @@
-<p align="center"><img src="assets/banner.svg" alt="Wase — practical tools for files" width="100%"></p>
+<p align="center"><a href="https://wase.download"><img src="assets/banner-generated.png" alt="wase.download — Drop. Convert. Download." width="100%"></a></p>
 
-### Building useful tools with open source
+<p align="center"><a href="https://wase.download">Try Wase Download</a> · <a href="https://github.com/vlad1337vlad1337-droid/wase-download">Explore the source</a> · <a href="https://dalink.to/wase_download">Buy me a coffee</a></p>
 
-I work on Wase products: small interfaces, self-hosted infrastructure and software people can actually use.
+### Wase — practical tools, open source
 
-**[wase.download](https://wase.download)** — a multilingual file converter. Images, documents, books, audio, video, archives, presentations, fonts, vectors and CAD/3D. Browser processing for images; isolated server jobs for broader formats.
+I build Wase products with compact interfaces and self-hosted infrastructure.
 
-[Try the converter](https://wase.download) · [Source](https://github.com/vlad1337vlad1337-droid/wase-download) · [Supported formats](https://wase.download/en/formats/) · [Developer guide](https://wase.download/en/developers/)
+**[Wase Download](https://wase.download)** converts images, documents, ebooks, audio, video, archives, presentations, fonts, vectors and CAD/3D files in **13 languages**. Images can be processed in the browser; broader formats use isolated server jobs. No account is required.
 
-| Repository | Purpose |
+[Supported formats](https://wase.download/en/formats/) · [Developer guide](https://wase.download/en/developers/) · [Privacy](https://wase.download/en/privacy/)
+
+| Project | What you will find |
 | --- | --- |
-| [wase-download](https://github.com/vlad1337vlad1337-droid/wase-download) | Interface, browser conversion, static multilingual pages and tests |
-| [wase-converter-engine](https://github.com/vlad1337vlad1337-droid/wase-converter-engine) | Self-hosted conversion engine and bounded server adapter |
+| [Wase Download](https://github.com/vlad1337vlad1337-droid/wase-download) | Converter interface, browser image tools, localized pages and tests |
+| [Wase converter engine](https://github.com/vlad1337vlad1337-droid/wase-converter-engine) | ConvertX fork with isolated jobs and resource limits |
+| [Wase Connect downloads](https://github.com/vlad1337vlad1337-droid/wase-connect-downloads) | Downloads, installation guides and release status |
+| [KidsGames](https://github.com/vlad1337vlad1337-droid/kidsgames) | Multiplayer framework and game-engine SDKs |
 
-Built on ImageTracer, ConvertX, VTracer, Blobatar and other open-source projects. Upstream authors, source and licenses are credited in each repository. Capabilities are documented honestly; declared format support is not a guarantee for every arbitrary file.
+**Join in:** try the converter, [report bugs or suggest improvements](https://github.com/vlad1337vlad1337-droid/wase-download/issues), or contribute a pull request. Start with the [contribution guide](https://github.com/vlad1337vlad1337-droid/wase-download/blob/master/CONTRIBUTING.md). If it is useful, a GitHub star helps people discover the project.
+
+**Support development:** [Buy me a coffee](https://dalink.to/wase_download). Donations help with hosting and development and are optional; Wase Download is free to use.
+
+Built with ImageTracer, ConvertX, VTracer, Blobatar and other open-source projects. Upstream authors and licenses are credited in the repositories; [banner and mascot notices](assets/NOTICES.md) are retained here.
